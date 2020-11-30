@@ -4,11 +4,11 @@
 
 ## I'm Developer, and Student!!
 
-- 🔭 I just launched my first course in Youtube
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I just launched my course in Youtube
+- 🌱 I’m currently learning Reactjs and teaching Java collection framework 🤣
+- 👯 I’m looking to collaborate with GSOC
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw
+- ⚡ Fun fact: I love to travel
 
 
 ### Connect with me:
