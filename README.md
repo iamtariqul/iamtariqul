@@ -2,7 +2,7 @@
 
 
 
-## I'm Developer, and Teacher!!
+## I'm Developer, and Student!!
 
 - 🔭 I just launched my first course in Youtube
 - 🌱 I’m currently learning everything 🤣
