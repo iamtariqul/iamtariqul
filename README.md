@@ -51,6 +51,7 @@
 
 
 [website]: http://tariqul.mypressonline.com/
+[youtube]: https://www.youtube.com/channel/UCYdiIyUVjJg7pbST7khX0KA
 [twitter]: https://twitter.com/tistariqul
 [instagram]: https://instagram.com/tistariqul
 [linkedin]: https://linkedin.com/in/tstariqul
