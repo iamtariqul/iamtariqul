@@ -1,4 +1,4 @@
-
+<img  alt="ANIMATION" src="1.png"></img>
 ### <h1 align="center">Hey there,<img src="Hi.gif" width="40px" />, I'm Tariqul 👳</h1>
 
 
