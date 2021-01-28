@@ -1,5 +1,5 @@
 <img  alt="ANIMATION" src="1.png"></img>
-### <h1 align="center">Hey there,<img src="Hi.gif" width="40px" />, I'm Tariqul 👳</h1>
+### <h1 align="center">Hey there,<img src="Hi.gif" width="40px" /> I'm Tariqul 👳</h1>
 
 
 ## I'm Developer, and Student!!
@@ -7,7 +7,7 @@
 - 🔭 I just launched my course in Youtube
 - 🌱 I’m currently learning Reactjs and teaching Java collection framework 🤣
 - 👯 I’m looking to collaborate with GSOC
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel
 
 
@@ -60,7 +60,7 @@
 
 
 
-[website]: http://tariqul.mypressonline.com/
+[website]: https://tstariqul.github.io/
 [youtube]: https://www.youtube.com/channel/UCYdiIyUVjJg7pbST7khX0KA
 [twitter]: https://twitter.com/tistariqul
 [instagram]: https://instagram.com/tistariqul
