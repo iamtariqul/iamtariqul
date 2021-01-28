@@ -1,5 +1,5 @@
-### Hi there, I'm Tariqul 👋
 
+### <h1 align="center">Hey there,<img src="Hi.gif" width="40px" />, I'm Tariqul 👨‍💻❤️</h1>
 
 
 ## I'm Developer, and Student!!
