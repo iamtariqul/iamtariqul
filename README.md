@@ -1,5 +1,5 @@
 
-### <h1 align="center">Hey there,<img src="Hi.gif" width="40px" />, I'm Tariqul 👨‍💻❤️</h1>
+### <h1 align="center">Hey there,<img src="Hi.gif" width="40px" />, I'm Tariqul 👳</h1>
 
 
 ## I'm Developer, and Student!!
@@ -45,7 +45,17 @@
 
 ---
 
+<img align="left" alt="Dog" width="" src="tenor.gif" />
+<img align="right" alt="Dog" width="" src="tenor.gif" />
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/tstariqul/count.svg" />
+</p>
 
+<br />
+<br />
+
+---
 
 
 
