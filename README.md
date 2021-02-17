@@ -4,11 +4,11 @@
 
 ## I'm Developer, and Researcher!!
 
-- 🔭 I just launched my course in Youtube
-- 🌱 I’m currently learning Reactjs and teaching Java collection framework 🤣
+- 🔭 I just launched my course in Udemy
+- 🌱 I’m currently learning Reactjs and teaching Java Collection Framework
 - 👯 I’m looking to collaborate with GSOC
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel
+- ⚡ Fun fact: I love to travel and sports
 
 
 ### Connect with me:
