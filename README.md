@@ -4,9 +4,8 @@
 
 ## I'm Developer, and Researcher!!
 
-- 🔭 I just launched my course in Udemy
-- 🌱 I’m currently learning Reactjs and teaching Java Collection Framework
-- 👯 I’m looking to collaborate with GSOC
+- 🔭 I just launched my course in YouTube
+- 🌱 I’m currently learning Reactjs, Nodejs and teaching Java Collection Framework
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and sports
 
@@ -61,11 +60,11 @@
 
 
 [website]: https://tstariqul.github.io/
-[youtube]: https://www.youtube.com/channel/UCYdiIyUVjJg7pbST7khX0KA
+[youtube]: https://www.youtube.com/channel/UCFOdZxMEG_Vd4F5-oOm7JtA
 [twitter]: https://twitter.com/tistariqul
 [instagram]: https://instagram.com/tistariqul
 [linkedin]: https://linkedin.com/in/tstariqul
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.youtube.com
+[jsplaylist]: https://www.youtube.com/
+[cssplaylist]: https://www.youtube.com/
+[reactplaylist]: https://www.youtube.com/
