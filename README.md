@@ -57,6 +57,14 @@
 ---
 
 
+<br />
+<br />
+
+---
+
+ [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=radical)](https://github.com/tstariqul)
+
+
 
 
 [website]: https://tstariqul.github.io/
