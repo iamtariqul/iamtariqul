@@ -1,13 +1,18 @@
 
-### <h1 align="center">Hey there, I'm Tariqul <img src="Hi.gif" width="40px"/> </h1>
+### <h1 align="center">Hey there, I'm Tariqul <img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
 
 
-## I'm Developer, and Researcher!!
+## I'm Developer, and Researcher!! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>
 
-- 🔭 I just launched my course in YouTube
-- 🌱 I’m currently learning Reactjs, Nodejs and teaching Java Collection Framework
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to travel and sports
+- 🔭 I’m currently working on Software Development.
+- 🌱 I’m currently learning Reactjs, Nodejs and teaching Java Collection Framework.
+- 👯 I’m looking to collaborate on Software Engineering, Data Science stuffs.
+- 🤔 I’m looking for help with Open Source Projects.
+- 💬 Ask me about Software development and analytics.
+- 🥅 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 
 
 ### Connect with me:
@@ -37,32 +42,14 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 <br />
 <br />
 
 ---
 
-<img align="left" alt="Dog" width="" src="tenor.gif" />
-<img align="right" alt="Dog" width="" src="tenor.gif" />
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/tstariqul/count.svg" />
-</p>
-
-<br />
-<br />
-
----
-
-
-<br />
-<br />
-
----
-
- [![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=radical)](https://github.com/tstariqul)
+<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=radical"></p>
+<hr>
 
 
 
