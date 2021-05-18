@@ -26,7 +26,10 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=tstariqul&hide_border=true'/>
 </p>
 
+<br />
+<br />
 
+---
 
 ### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
