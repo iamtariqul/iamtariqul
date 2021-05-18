@@ -26,8 +26,6 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=tstariqul&hide_border=true'/>
 </p>
 
-<p align= "center"><img src="https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=radical"></p>
-<hr>
 
 
 ### Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
