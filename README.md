@@ -20,11 +20,22 @@
 <br />
 
 ---
+### My Blogs
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/2" alt="Recent Article 0"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@adilshehzad786/7" alt="Recent Article 0"> 
 
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=gotham" alt="Tariqul" />
 <p align="center">
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=tstariqul&hide_border=true'/>
 </p>
+</details>
+
+
 
 <br />
 <br />
