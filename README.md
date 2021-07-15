@@ -58,12 +58,12 @@
 
 
 
-[website]: https://tstariqul.github.io/
-[youtube]: https://www.youtube.com/channel/UCFOdZxMEG_Vd4F5-oOm7JtA
+[website]: https://tstariqul.netlify.app
+[youtube]: https://www.youtube.com/channel/UCIhg6jctZqVEEzs8jznDaIA
 [twitter]: https://twitter.com/tistariqul
 [instagram]: https://instagram.com/tistariqul
 [linkedin]: https://linkedin.com/in/tstariqul
-[webdevplaylist]: https://www.youtube.com
-[jsplaylist]: https://www.youtube.com/
-[cssplaylist]: https://www.youtube.com/
-[reactplaylist]: https://www.youtube.com/
+[webdevplaylist]: #
+[jsplaylist]: #
+[cssplaylist]: #
+[reactplaylist]: #
