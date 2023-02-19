@@ -43,7 +43,7 @@
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
 
 ---
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tstariqul&theme=xcode)](https://www.tstariqul.tech/)
+
 <!-- <p style="center"> <img src="https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=gotham" alt="Tariqul" /> -->
 
 <a href="https://github.com/tstariqul/github-stats">
