@@ -61,7 +61,7 @@ Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blo
 [<img align="center" alt="tariqul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </h1>
 
-[website]: https://tstariqul.netlify.app
+[website]: https://tariquls.netlify.app
 [youtube]: #
 [twitter]: https://twitter.com/tstariqul
 [instagram]: https://instagram.com/tis_tariqul
