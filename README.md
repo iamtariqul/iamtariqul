@@ -6,21 +6,17 @@
 </em></p> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>
 
-- 🔭 I’m currently working on Software Development.
-- 🌱 I’m currently learning Reactjs, Nodejs and teaching Java Collection Framework.
-- 👯 I’m looking to collaborate on Software Engineering, Data Science stuffs.
-- 🤔 I’m looking for help with Open Source Projects.
-- 💬 Ask me about Software development and analytics.
+- 🔭 I’m currently working on Software project Development.
+- 🌱 I worked with with Python, Reactjs, Nodejs and teaching Cloud Computing and Research Writing.
 - 🥅 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: You lose up to 30 percent of your taste buds during flight.
 - ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python Community**
+- 🌍 I'm mostly active within the **Python, React.Js Community**
 - 🌱 Learning all about **DevOps**
 - 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
 
 #### Now
 
-- :fire: Interested in DevOps and Cloud engineering;
+- :fire: Interested in DevOps and Cloud Engineering;
 - :calendar: Looking for contributing to python based open source projects 
 
 #### My Current Stack
@@ -55,14 +51,16 @@
 <h1 align="center">
 Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
+[<img align="center" alt="tariqul | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
+[<img align="center" alt="tariqul | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
 [<img align="center" alt="tariqul" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="tariqul | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="center" alt="tariqul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center" alt="tariqul | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 </h1>
 
 [website]: https://tariquls.netlify.app
 [youtube]: #
+[researchgate]: https://www.researchgate.net/profile/Tariqul-Islam-13/research
+[googlescholar]: https://scholar.google.com/citations?user=FCBhjNMAAAAJ&hl
 [twitter]: https://twitter.com/tstariqul
 [instagram]: https://instagram.com/tis_tariqul
 [linkedin]: https://linkedin.com/in/tstariqul
