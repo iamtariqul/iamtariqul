@@ -1,34 +1,28 @@
 
-### <h1 align="center">Hey there, I'm Tariqul <img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
+### <h1 align="center">Hey there, I'm Tariqul Islam<img src="Hi.gif" width="40px"/> </h1>  <div align = 'right'>![](https://komarev.com/ghpvc/?username=shobhitsrivastava-ds&color=yellow)</div>
 
 
-## I'm Developer, and Researcher!!  
+## I'm a Developer and Researcher!!  
 </em></p> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>
 
-- 🔭 I’m currently working on Software project Development.
-- 🌱 I worked with with Python, Reactjs, Nodejs and teaching Cloud Computing and Research Writing.
-- 🥅 Goals: Contribute more to Open Source projects.
-- ⚙️ I use daily: `.py`, `.js`, `.yml`, `.sh`
-- 🌍 I'm mostly active within the **Python, React.Js Community**
-- 🌱 Learning all about **DevOps**
-- 💬 Ping me about **Django**, **Python**, **Docker**, **RestAPIs**, **Keycloak**
+A passionate academic researcher-practitioner acquired more than 3 years of multi-dimensional experience, especially in research with excellence in computer science areas such as computer vision, Image processing, machine learning, artificial intelligence, big data, also problem identification, and development activities as per requirements. Web development with 2+ years of professional IT experience and an ability to deliver quality applications/systems at an accelerated pace. Advanced Web Applications (MERN Stack) experience working on multiple projects and research work to solve society's problems and life make easy. Experience with software development lifecycle and agile project management, cloud computing. To work in a competitive environment organizations which gives me professional challenges to overcome new frontiers and grow rapidly with increasing responsibility.
 
 #### Now
 
 - :fire: Interested in DevOps and Cloud Engineering;
-- :calendar: Looking for contributing to python based open source projects 
+- :calendar: Looking to contribute to Python based open-source projects 
 
 #### My Current Stack
 
 <img height="48" src="python-original.svg" alt="python"> <img height="48" src="django-plain-wordmark.svg" alt="Django"> <img height="48" src="postgresql-original.svg" alt="postgress"> <img height="48" src="docker-original.svg" alt="Docker"> <img height="48" src="linux-original.svg" alt="linux"> <img height="48" src="nginx-original.svg" alt="nginx"> <img height="48" src="pytest-original.svg" alt="pytest"> <img height="48" src="git-original.svg" alt="git"> <img height="48" src="react-original.svg" alt="react">
 
-#### Development Stuffs:
+#### Development Stuff:
 
 <b>⚡ Github Stats</b>
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tstariqul&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamtariqul&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtariqul&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
@@ -36,34 +30,26 @@
 
 <p><b> &#9749; Latest Medium Blogs</b></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@tstariqul/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@tstariqul/0" alt="Latest medium article">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamtariqul/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamtariqul/0" alt="Latest medium article">
 
 ---
 
-<!-- <p style="center"> <img src="https://github-readme-stats.vercel.app/api?username=tstariqul&show_icons=true&theme=gotham" alt="Tariqul" /> -->
+<!-- <p style="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamtariqul&show_icons=true&theme=gotham" alt="Tariqul" /> -->
 
-<a href="https://github.com/tstariqul/github-stats">
+<a href="https://github.com/iamtariqul/github-stats">
 
-![](https://github.com/tstariqul/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/tstariqul/github-stats/blob/master/generated/languages.svg)
+![](https://github.com/iamtariqul/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/iamtariqul/github-stats/blob/master/generated/languages.svg)
 
 </a>
-<h1 align="center">
-Connect with me <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px">
 
-[<img align="center" alt="tariqul | ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />][researchgate]
-[<img align="center" alt="tariqul | Google Scholar" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />][googlescholar]
-[<img align="center" alt="tariqul" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="center" alt="tariqul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</h1>
 
-[website]: https://tariquls.netlify.app
+[website]: https://iamtariqul.netlify.app
 [youtube]: #
 [researchgate]: https://www.researchgate.net/profile/Tariqul-Islam-13/research
 [googlescholar]: https://scholar.google.com/citations?user=FCBhjNMAAAAJ&hl
-[twitter]: https://twitter.com/tstariqul
-[instagram]: https://instagram.com/tis_tariqul
-[linkedin]: https://linkedin.com/in/tstariqul
+[instagram]: https://instagram.com/iamtstariqul
+[linkedin]: https://linkedin.com/in/iamtariqul
 [webdevplaylist]: #
 [jsplaylist]: #
 [cssplaylist]: #
